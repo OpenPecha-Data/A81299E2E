@@ -1,0 +1,28 @@
+segment_sources:
+  P09AF8E99:
+    type: origin_type
+    relation: translation
+    language: en
+  PE1FE3688:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  47f05e1fd6a04b5d8387a564824ed352:
+    P09AF8E99: aaa9d0a3136e4bd0b2977ef0cbfb77b8
+    PE1FE3688: bfb95ed037ff482a9a5db140400cc209
+  bafd556e1d774ecbb9a2ad6a9707f5f4:
+    P09AF8E99: ff554ef5b5f94b48a3a59a5d722bf39d
+    PE1FE3688: 64eb137fa7ee4448b3ff825c65ac424f
+  5ff3ed2a8d9546a0b197658ba2091150:
+    P09AF8E99: 84128ab7a957474193ceb7325c7cd14b
+    PE1FE3688: 6db0a51f9b7c458696b6e3474cfd3a0d
+  3601588902294d26b0d707060777c99e:
+    P09AF8E99: a0f96fd45f32431e9c8595cac4568d57
+    PE1FE3688: 5b3d58e8fc4548579e95c08cc7678076
+  c29005d2116f4cb9b4103d9e5fac894d:
+    P09AF8E99: 9a2de324d095444db89ff2ec06650e69
+    PE1FE3688: dd526e7a75ad4d6485da307914752b49
+  1b3632816346453992512b2c3715e70d:
+    P09AF8E99: 13c529b5868b4684ab03858ef93955fd
+    PE1FE3688: 8179b73d682e4376a37fd2c5d7aa55ff

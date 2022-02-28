@@ -1,0 +1,16 @@
+segment_sources:
+  P09AF8E99:
+    type: origin_type
+    relation: translation
+    language: en
+  PE1FE3688:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3763333b97014725958edf2cdc82bfda:
+    P09AF8E99: d94101ef0a29423da35edd2267b115a0
+    PE1FE3688: 6da4d9b3c95649eeaa581c4372025e6f
+  8017194234394bfeb62a8f5fd1a3272c:
+    P09AF8E99: 2a544eab24c643a8a1aa970b5fc7c503
+    PE1FE3688: 955120d2af3247629240cbbe5e4ae87e
